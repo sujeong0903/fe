@@ -8,3 +8,5 @@
   - [React](week01/03.md)
   - [Testing Library](week01/04.md)
   - [Parcel & ESLint](week01/05.md)
+- [WEEK02](week02/week02.md)
+  - [JSX](week02/01.md)
